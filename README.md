@@ -1,21 +1,3 @@
-**Research Assistant position**
-
-Flexible student work opportunity: design, UX, user relations
-
-**Start** as soon as possible
-
-**Duration** through summer 2014, possibly longer
-
-**Hours** negotiable
-
-**Pay** $12 per hour
-
-I (Ryan Shaw, <http://aeshin.org/>) am looking for a student to assist me with my studies of systems for organizing documents of historical significance. 
-
-The position would be ideal for someone interested in (Web) design, user experience, and/or user relations (gathering feedback, providing documentation). 
-
-If you have been introduced to programming and are interested in further developing your skills, this could be a good opportunity, but no programming background is required to apply.
-
-An interest or background in history is not required but would be a plus.
-
-**To apply** please [fork](https://help.github.com/articles/fork-a-repo) this repository, edit this document to briefly describe yourself and why you are interested in the position. Provide links to supporting documentation such as resumes, portfolios, Web sites, etc. Then send a [pull request](https://help.github.com/articles/using-pull-requests) with your changes.
+Greetings,
+My name is Oak Ritchie, and I am a first year MSIS student at SILS. This position interests me because I have recently taken a programming course that has awakened a very real interest in working with code and learning of the capabilities that I can develop using the skills that I've gained in the last year. I am becoming quite familiar with Python, have interacted with Flask, am familiar with HTML and am willing to learn. I presently blog at [Steady Flow](www.steadyflowblog.com), my [github](https://github.com/Blucka12) account is quite active, and I am currently using Nitrous to work on Github from the command line. I am familiar with a professional workflow where I work from my own fork of a repository and branch different tasks to track changes and keep updates contained, and I am learning how to debug as I go along. Being a Masters student, time to serve in this capacity may well be limited, but I would very much like to learn more from May to August if I am a good fit for the position.
+[My Resume](https://drive.google.com/file/d/0B9m2NW_L91DiMzZydHRQUHl0c2M/edit?usp=sharing). If you have any further questions, please don't hesitate to contact me at blucka12@gmail.com or at (843)625-1567. Thank you.
